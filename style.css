@@ -1,0 +1,8 @@
+.para-external {
+    font-weight: bold;
+    background-color: blanchedalmond;
+    color: crimson; 
+    margin: 30px 30px 30px 30px;
+    border: 3px solid black;
+    padding: 20px 20px 20px 50px;
+}
